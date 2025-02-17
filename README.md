@@ -55,8 +55,8 @@ Another mobile app you’ve developed, with description and links.
 
 ## 📬 Contact Me
 - 📧 **Email:** pkp162550@gmail.com
-- 🌐 **Website:** [your-portfolio.com](https://pg-d3v.github.io/MyPortfolio/)
-- 💼 **Instagram:** [your-linkedin](https://www.instagram.com/pankaj_x86?igsh=MjJkNmVrcHJhcnI4)
+- 🌐 **Website:** [PG-Dev](https://pg-d3v.github.io/MyPortfolio/)
+- 💼 **Instagram:** [DM On Instagram](https://www.instagram.com/pankaj_x86?igsh=MjJkNmVrcHJhcnI4)
 
 ---
 
