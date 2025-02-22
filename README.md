@@ -37,7 +37,7 @@ I Create this Website For My Portfolio.
 
 ## 📱 My Developed Apps
 
-### [Chatalogy | Random Video call](https://your-app-link)
+### [Jugaad Chat | Random Video call](https://your-app-link)
 **Tech Used:** Kotlin, Android SDK  
 A brief description of the mobile app, its functionality, and what makes it unique. You can also provide a link to the app store or APK download.
 
